@@ -1,7 +1,7 @@
 {
   "PORT": 5000,
   "LOGIN_METHOD": "appstate",
-  "BOTNAME": "🩷𓆩๛⃝𝐌𝐀𝐍𝐎𓆪𓆤",
+  "BOTNAME": "𝑭𝑨𝑹𝑨𝑩𝑰'𝑺 𝑩𝑶𝑻",
   "PREFIX": ".",
   "ADMINBOT": [],
   "ADMIN_NAME": "Sardar RDX",
@@ -17,7 +17,7 @@
   "AUTO_GROUP_MESSAGE": false,
   "TEST_MODE": false,
   "LANGUAGE": "ur",
-  "TIMEZONE": "Asia/Karachi",
+  "TIMEZONE": "Asia/Dhaka",
   "AUTO_RESTART_MINUTES": 120,
   "LOG_MESSAGES": true,
   "IGNORED_USERS": [],
